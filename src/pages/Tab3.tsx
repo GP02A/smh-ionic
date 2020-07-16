@@ -23,7 +23,7 @@ const Tab3: React.FC = () => {
           </p>
           <p>
             You could find the origin spa <a href="http://bologs.gp02a.com/tools/smh-timer">here</a>, and the github
-            page for this project here(under constrcution....).
+            page for this project <a href="https://github.com/GP02A/smh-ionic">here</a>.
           </p>
         </div>
       </IonContent>

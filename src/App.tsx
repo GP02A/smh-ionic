@@ -129,7 +129,7 @@ const App: React.FC = () => {
 
   return (
     <IonApp>
-      <IonReactRouter>
+      <IonReactRouter basename="/spa/smh-ionic">
         <IonTabs>
           <IonRouterOutlet>
             <Route
